@@ -41,8 +41,8 @@
 
 ```bash
 # リポジトリのクローン
-git clone https://github.com/your-username/supplier-management-system.git
-cd supplier-management-system
+git clone https://github.com/nezumasa0203/test-app-supplier.git
+cd test-app-supplier
 
 # 依存関係のインストール
 npm install
